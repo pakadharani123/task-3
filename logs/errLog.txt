@@ -1,0 +1,61 @@
+20:06:2025	17:21:15	8580a919-601e-4311-90d5-b38568520dfe	RangeError:Maximum call stack size exceeded
+
+20:06:2025	17:21:59	3004e490-f1a5-4102-9c0c-9c045ef00433	RangeError:Maximum call stack size exceeded
+
+21:06:2025	17:56:59	f5ee1549-211d-40ca-8912-ac25d9a918e2	TypeError:Cannot read properties of undefined (reading 'split')
+
+22:06:2025	19:14:06	63d272ad-c6d0-4015-af13-2b5f9f94e525	ReferenceError:username is not defined
+
+22:06:2025	20:19:15	66f7c1fe-3977-4b2b-8cd9-fe8d14ea098d	TypeError:allowedRoles.includes(...).find is not a function
+
+22:06:2025	20:19:19	c9048768-0874-46eb-8687-3b262a74901e	TypeError:allowedRoles.includes(...).find is not a function
+
+22:06:2025	20:26:19	7772c88c-e3e0-4d09-819f-0f14a58d288d	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	10:11:11	2d3b4bd4-a07a-4e1a-92dc-a72a8b539021	Error:data and hash must be strings
+
+24:06:2025	10:13:09	5b027e76-9f76-4509-9578-b850d0eb9415	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	10:13:34	aa199aa5-fab3-4d37-83f4-24e8b4d84bd9	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:13:40	00b705d8-017e-4335-9623-e87d6717d4b7	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:13:47	99f0e7d7-b561-4d3b-941a-12500d674478	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:14:17	bae58403-40b3-4633-8e49-746d38d1288c	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:14:50	ed0a2b9e-c719-4b05-baa6-2026e10ec7d3	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:16:45	0d6923ed-87d4-471a-8a4a-72bcaaf48b5b	TypeError:Cannot read properties of undefined (reading 'split')
+
+24:06:2025	10:18:04	f4552163-8f29-4e9c-8d5b-34dbfdbb0af5	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	10:20:32	6f08c410-a4be-4ea2-86b4-107d4341fa92	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	10:21:22	e5958d6f-0979-49e4-91e6-895dfb05f458	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:21:25	5db435fb-92ef-402b-8c3a-e603779d13ef	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:21:27	1c5293a5-c9f9-4a77-9453-9c0bc44e5fa5	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:24:01	927eb7c1-e544-48dd-b06c-57cd506a03bf	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:24:10	b6218ed3-6894-4d83-af9b-2d73f59b46bb	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	10:24:37	605957db-c748-43c6-9e72-7d6c337cab0c	SyntaxError:Unexpected end of JSON input
+
+24:06:2025	12:10:02	ff042900-8c19-4041-a06a-34b74a04e2c3	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	12:10:15	d916318f-137d-42c6-a87c-62cd7c0dfb6b	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	12:14:40	c0e13fff-c038-44ce-a3b7-6517547144ba	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	12:15:13	cf3ca520-b77a-4cf6-99ae-ab346063fbeb	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	14:17:51	bf3e45f1-5fe5-4709-afe8-ee89d8c289a5	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	14:18:15	2687d750-e27f-466d-b519-0279ba8ad0ba	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	14:18:17	d25cf2a0-2b66-4ea8-915b-50a2359c691f	Error:Cannot set headers after they are sent to the client
+
+24:06:2025	14:18:18	f4b5a718-2e1c-4584-89f8-ebecf1079b9d	Error:Cannot set headers after they are sent to the client
